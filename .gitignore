@@ -5,8 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+artifact/*
 # Distribution / packaging
+usv/
 visa/
 .Python
 build/

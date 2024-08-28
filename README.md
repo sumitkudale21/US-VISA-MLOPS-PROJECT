@@ -23,7 +23,7 @@ git push origin main
 ## How to run?
 
 ```bash
-conda create -p visa python=3.12 -y
+conda create -p visa python=3.8 -y
 ```
 
 ```bash
